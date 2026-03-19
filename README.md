@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael!</h1>
+<h1 align="center">Hi, I'm Raphael! 👋</h1>
 <h3 align="center">Full-stack developer with a background in Big 4 Tax (Deloitte) and a Le Wagon graduate (Mar 2026).</h3>
 
 - 📝 At Le Wagon Tokyo, I built [Dōjin Master](https://github.com/Amakase/dojin-master) and [PR Helper](https://github.com/jonathankiichikimura/japanese-pr-helper) — full-stack apps with Rails, PostgreSQL, and JavaScript, with 3 colleagues.
