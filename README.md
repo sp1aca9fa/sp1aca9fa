@@ -3,7 +3,7 @@
 
 - 📝 At Le Wagon Tokyo, I built [Dōjin Master](https://github.com/Amakase/dojin-master) and [PR Helper](https://github.com/jonathankiichikimura/japanese-pr-helper) — full-stack apps with Rails, PostgreSQL, and JavaScript, with 3 colleagues.
 - ⚡ I'm familiar with Node.js, React, and TypeScript — and now I'm actively building with them as I transition from Rails to a full JS stack.
-- 🔭 I'm currently building [Forin](https://forin.me) — a platform for foreigners living in Japan — with a JS stack. If that's you, I'd appreciate your input in the [surveys](https://forin.me/surveys).
+- 🔭 Using JS stack, I'm currently building [Forin](https://forin.me) — a platform to analyze trends on foreigners living in Japan. If that's you, I'd appreciate your input in the [surveys](https://forin.me/surveys).
 - 📫 Reach me at **sp1aca9fa@gmail.com** or via [LinkedIn](https://linkedin.com/in/barbosaraphael).
 
 My stack:
