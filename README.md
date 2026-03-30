@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raphael! 👋</h1>
-<h3 align="center">Full-stack developer with a background in Big 4 Tax (Deloitte) and a Le Wagon graduate (Mar 2026).</h3>
+<h3 align="center">Full-stack developer with a background in Big 4 Tax consultant (Deloitte) and a Le Wagon graduate (Mar 2026).</h3>
 
 <p>At Le Wagon Tokyo, I built <a href="https://dojinmaster.app/">Dōjin Master</a> and <a href="https://japanese-pr-helper-fa4985598578.herokuapp.com/">PR Tomo</a>: full-stack apps with Rails, PostgreSQL, and JavaScript, with 3 colleagues. The repos are pinned down below.</p>
 <p>I'm familiar with Node.js, React, and TypeScript, and now am actively building with them as I transition from Rails to a full JS stack.</p>
