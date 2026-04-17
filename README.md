@@ -10,7 +10,7 @@
 <p>You may reach me at <a href="mailto:sp1aca9fa@gmail.com">sp1aca9fa@gmail.com</a> or via <a href="https://linkedin.com/in/barbosaraphael">LinkedIn</a>.</p>
 
 <p>My stack:</p>
-<table><tr>
+<table border="0"><tr>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
 <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
 <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
